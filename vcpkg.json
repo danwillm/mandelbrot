@@ -1,0 +1,9 @@
+{
+    "name": "mandelbrot",
+    "version-string": "1.0",
+    "dependencies": [
+        "glfw3",
+        "glew",
+        "glm"
+    ]
+}
